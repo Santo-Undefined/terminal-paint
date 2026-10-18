@@ -1,4 +1,4 @@
-# Terminal Paint (`paint.sh`)
+# Terminal Paint
 
 A self-contained, lightweight, interactive terminal-based (TUI) drawing application written purely in **Bash**.
 
